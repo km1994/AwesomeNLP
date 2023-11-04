@@ -1,5 +1,16 @@
 # NLP菜鸟逆袭记
 
+- LLMs 千面郎君：https://github.com/km1994/LLMs_interview_notes
+  - 介绍：该仓库主要记录 大模型（LLMs） 算法工程师相关的面试题
+- LLMs九层妖塔：https://github.com/km1994/LLMsNineStoryDemonTower
+  - 介绍：【LLMs九层妖塔】分享 LLMs在自然语言处理（ChatGLM、Chinese-LLaMA-Alpaca、小羊驼 Vicuna、LLaMA、GPT4ALL等）、信息检索（langchain）、语言合成、语言识别、多模态等领域（Stable Diffusion、MiniGPT-4、VisualGLM-6B、Ziya-Visual等）等 实战与经验。
+- NLP菜鸟逆袭记：https://github.com/km1994/AwesomeNLP
+  - 介绍：【NLP菜鸟逆袭】分享 自然语言处理（文本分类、信息抽取、知识图谱、机器翻译、问答系统、文本生成、Text-to-SQL、文本纠错、文本挖掘、知识蒸馏、模型加速、OCR、TTS、Prompt、embedding等）等 实战与经验。
+- NLP 面无不过：https://github.com/km1994/NLP-Interview-Notes
+  - 介绍：该仓库主要记录 NLP 算法工程师相关的面试题
+- 【关于 NLP】 那些你不知道的事：https://github.com/km1994/nlp_paper_study
+  - 介绍：该仓库主要记录 NLP 算法工程师相关的顶会论文研读笔记
+
 梳理 NLP基础任务（文本分类、命名实体识别、关系抽取、事件抽取、文本摘要、文本生成、Prompt）和 LLMs 大模型等开源项目，争取做成一个全网最全NLP小白入门教程！
 
 - [NLP菜鸟逆袭记](#nlp菜鸟逆袭记)
